@@ -1,0 +1,10 @@
+This is a custom license, permissive like the MIT License for individuals, but commercial for others.
+
+The texts, design and software are distributed 'as is' without any promises, warranties, or additional responsibilities from the author for any consequences. Use at your own risk.
+You may view and study the source code.
+If you wish to reuse, modify, or fork it, please keep a reference to the original source.
+This all is free for non-commercial use. 
+Direct commercial use, such as incorporating it into your business process, product, or service, should be discussed and licensed separately (on an individual basis, no common plans, may also be free).
+Indirect commercial use, such as if it helps you in earning money in other honest ways, you may choose to offer a gratitude (in monetary form or other equivalent), but this is not mandatory."
+
+RTG, 2024.
