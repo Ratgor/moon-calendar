@@ -1,5 +1,6 @@
 .idea
 *__pycache__*
 bkp
-docs
+docs/*
+!docs/GUI_v1_screenshot.png
 de421.bsp
