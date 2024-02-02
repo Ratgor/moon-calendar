@@ -100,6 +100,7 @@ class MainWindow:
         self.graph_axes.cla()
         self.current_date = self.center_date = self.cursor_date = datetime.datetime.now()
         self.date_input_box.set_val(self.center_date.strftime(self.date_format))
+        self.update_cursor_info_text()
         self.draw_moon_phase()
         self.re_draw_all()
 
@@ -391,6 +392,6 @@ if __name__ == "__main__":
           f'(Legend: New Moon 0/360, Full Moon 180)')
 
     window = tk.Tk()
-    window.geometry('1260x500') # '800x600'
+    window.geometry('1260x500')  # '800x600'
     MainWindow(window)
     tk.mainloop()
